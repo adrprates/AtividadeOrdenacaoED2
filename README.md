@@ -8,8 +8,8 @@ Utilizar os algoritmos de ordenação aprendidos para:
 3. Imprimir os nomes do arquivo ordenados de acordo com o algoritmo selecionado
 
 Dicas:
- Biblioteca “string.h”;
- Usar os ponteiros FILE *arquivo para ler o mesmo;
+ Biblioteca “string.h”;<br/>
+ Usar os ponteiros FILE *arquivo para ler o mesmo;<br/>
  Usar as funções fopen para abrir o arquivo em leitura (r+), feof para determinar o fim do arquivo, fgets para ler a linha e fclose para fechar o arquivo
 <br/>
 
